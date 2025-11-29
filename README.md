@@ -10,14 +10,12 @@ O objetivo desta etapa foi aplicar conceitos de código limpo, boas práticas e 
 
 src/
 └── calculadora/
-├── Calculadora.java # Classe principal com operações isoladas
-└── TesteCalculadora.java # Classe de execução e validação no console
+               ├── Calculadora.java
+               └── TesteCalculadora.java 
 
-docs/
-└── javadoc/ # Documentação gerada automaticamente
+ docs/
+    └── javadoc/ 
 
-yaml
-Copy code
 
 ---
 
